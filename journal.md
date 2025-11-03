@@ -19,6 +19,6 @@ my prompt wasabout a game that edcational while i sleep and watch tiktok all nig
 
 | Name     | Main Dish | Dessert |
 | :------- | :-------- | :------ |
-| Fiona    | gado gado  creme blulee |
+| Fiona    | gado gado | creme blulee |
 | Tobias   |shrimp ceviche| french apple cake 
 | Leanne   | beef wellington |  rasberry  |
