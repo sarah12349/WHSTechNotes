@@ -22,3 +22,5 @@ my prompt wasabout a game that edcational while i sleep and watch tiktok all nig
 | Fiona    | gado gado | creme blulee |
 | Tobias   |shrimp ceviche| french apple cake 
 | Leanne   | beef wellington |  rasberry  |
+
+ # December 1, 2025 - One real job that utilizes drones is a drone programmer.These programmers write the code that allows drones to fly,navigate,and perform their tasks.They develo[ the software that controls the drones movements,sensors,and payload.Drone pilots use drones equipped with specialized senors and cameras to survey fields,monitor crop health,and assess irrigation needs.
